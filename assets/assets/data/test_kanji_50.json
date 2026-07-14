@@ -1,0 +1,633 @@
+{
+ "meta": {
+  "purpose": "GDD 3.4a 検証プロトコルの試験字50字(層化抽出)",
+  "generated_by": "tools/select_test_kanji.py",
+  "infeasible_cells": [
+   {
+    "cell": "直線のみ×5〜8画",
+    "population": 1
+   },
+   {
+    "cell": "直線のみ×9画以上",
+    "population": 0
+   }
+  ]
+ },
+ "kanji": [
+  {
+   "codepoint": "4e00",
+   "kanji": "一",
+   "grade": 1,
+   "strokeCount": 1,
+   "band": "1-4",
+   "categories": [
+    "straight_only"
+   ]
+  },
+  {
+   "codepoint": "4e5d",
+   "kanji": "九",
+   "grade": 1,
+   "strokeCount": 2,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "4e8c",
+   "kanji": "二",
+   "grade": 1,
+   "strokeCount": 2,
+   "band": "1-4",
+   "categories": [
+    "straight_only"
+   ]
+  },
+  {
+   "codepoint": "529b",
+   "kanji": "力",
+   "grade": 1,
+   "strokeCount": 2,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "5341",
+   "kanji": "十",
+   "grade": 1,
+   "strokeCount": 2,
+   "band": "1-4",
+   "categories": [
+    "straight_only"
+   ]
+  },
+  {
+   "codepoint": "5200",
+   "kanji": "刀",
+   "grade": 2,
+   "strokeCount": 2,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "5915",
+   "kanji": "夕",
+   "grade": 1,
+   "strokeCount": 3,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5b50",
+   "kanji": "子",
+   "grade": 1,
+   "strokeCount": 3,
+   "band": "1-4",
+   "categories": [
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "5c0f",
+   "kanji": "小",
+   "grade": 1,
+   "strokeCount": 3,
+   "band": "1-4",
+   "categories": [
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "4e38",
+   "kanji": "丸",
+   "grade": 2,
+   "strokeCount": 3,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5f13",
+   "kanji": "弓",
+   "grade": 2,
+   "strokeCount": 3,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "6c34",
+   "kanji": "水",
+   "grade": 1,
+   "strokeCount": 4,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "516c",
+   "kanji": "公",
+   "grade": 2,
+   "strokeCount": 4,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5207",
+   "kanji": "切",
+   "grade": 2,
+   "strokeCount": 4,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "5c11",
+   "kanji": "少",
+   "grade": 2,
+   "strokeCount": 4,
+   "band": "1-4",
+   "categories": [
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5fc3",
+   "kanji": "心",
+   "grade": 2,
+   "strokeCount": 4,
+   "band": "1-4",
+   "categories": [
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "4e88",
+   "kanji": "予",
+   "grade": 3,
+   "strokeCount": 4,
+   "band": "1-4",
+   "categories": [
+    "has_fold",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "6b63",
+   "kanji": "正",
+   "grade": 1,
+   "strokeCount": 5,
+   "band": "5-8",
+   "categories": [
+    "straight_only"
+   ]
+  },
+  {
+   "codepoint": "6bcd",
+   "kanji": "母",
+   "grade": 2,
+   "strokeCount": 5,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5199",
+   "kanji": "写",
+   "grade": 3,
+   "strokeCount": 5,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "76ae",
+   "kanji": "皮",
+   "grade": 3,
+   "strokeCount": 5,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "793c",
+   "kanji": "礼",
+   "grade": 3,
+   "strokeCount": 5,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "540d",
+   "kanji": "名",
+   "grade": 1,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5b57",
+   "kanji": "字",
+   "grade": 1,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "6c17",
+   "kanji": "気",
+   "grade": 1,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "7cf8",
+   "kanji": "糸",
+   "grade": 1,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "591a",
+   "kanji": "多",
+   "grade": 2,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "7fbd",
+   "kanji": "羽",
+   "grade": 2,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "8272",
+   "kanji": "色",
+   "grade": 2,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "6b7b",
+   "kanji": "死",
+   "grade": 3,
+   "strokeCount": 6,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "7a76",
+   "kanji": "究",
+   "grade": 3,
+   "strokeCount": 7,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5b66",
+   "kanji": "学",
+   "grade": 1,
+   "strokeCount": 8,
+   "band": "5-8",
+   "categories": [
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "53d7",
+   "kanji": "受",
+   "grade": 3,
+   "strokeCount": 8,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "6cf3",
+   "kanji": "泳",
+   "grade": 3,
+   "strokeCount": 8,
+   "band": "5-8",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "97f3",
+   "kanji": "音",
+   "grade": 1,
+   "strokeCount": 9,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "524d",
+   "kanji": "前",
+   "grade": 2,
+   "strokeCount": 9,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5357",
+   "kanji": "南",
+   "grade": 2,
+   "strokeCount": 9,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5f8c",
+   "kanji": "後",
+   "grade": 2,
+   "strokeCount": 9,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5ba2",
+   "kanji": "客",
+   "grade": 3,
+   "strokeCount": 9,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "6025",
+   "kanji": "急",
+   "grade": 3,
+   "strokeCount": 9,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "7d1a",
+   "kanji": "級",
+   "grade": 3,
+   "strokeCount": 9,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "6821",
+   "kanji": "校",
+   "grade": 1,
+   "strokeCount": 10,
+   "band": "9+",
+   "categories": [
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "5f31",
+   "kanji": "弱",
+   "grade": 2,
+   "strokeCount": 10,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "7d19",
+   "kanji": "紙",
+   "grade": 2,
+   "strokeCount": 10,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "52c9",
+   "kanji": "勉",
+   "grade": 3,
+   "strokeCount": 10,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai"
+   ]
+  },
+  {
+   "codepoint": "9662",
+   "kanji": "院",
+   "grade": 3,
+   "strokeCount": 10,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "7d42",
+   "kanji": "終",
+   "grade": 3,
+   "strokeCount": 11,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "968e",
+   "kanji": "階",
+   "grade": 3,
+   "strokeCount": 12,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "98f2",
+   "kanji": "飲",
+   "grade": 3,
+   "strokeCount": 12,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  },
+  {
+   "codepoint": "7dda",
+   "kanji": "線",
+   "grade": 2,
+   "strokeCount": 15,
+   "band": "9+",
+   "categories": [
+    "has_fold",
+    "has_curve",
+    "has_hane_harai",
+    "has_short"
+   ]
+  }
+ ]
+}

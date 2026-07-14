@@ -1,0 +1,69 @@
+{
+  "_comment": "なぞり判定の閾値設定(GDD 3.4: 画種別に個別調整)。座標系はKanjiVGのviewBox 0..109単位。アプリ内の設定画面から一時上書きも可能(localStorage)。",
+  "version": 1,
+  "resamplePoints": 32,
+  "minInputPoints": 2,
+  "smoothWindow": 3,
+  "buckets": {
+    "straight": {
+      "meanDistMax": 9.0,
+      "maxDevMax": 18.0,
+      "covTol": 10.0,
+      "coverageMin": 0.85,
+      "avgCosMin": 0.72,
+      "backFracMax": 0.10,
+      "lenRatioMin": 0.60,
+      "lenRatioMax": 1.60,
+      "startDistMax": 18.0,
+      "endDistMax": 18.0
+    },
+    "fold": {
+      "meanDistMax": 10.0,
+      "maxDevMax": 20.0,
+      "covTol": 11.0,
+      "coverageMin": 0.82,
+      "avgCosMin": 0.70,
+      "backFracMax": 0.12,
+      "lenRatioMin": 0.60,
+      "lenRatioMax": 1.70,
+      "startDistMax": 18.0,
+      "endDistMax": 18.0
+    },
+    "curve": {
+      "meanDistMax": 10.0,
+      "maxDevMax": 20.0,
+      "covTol": 11.0,
+      "coverageMin": 0.82,
+      "avgCosMin": 0.72,
+      "backFracMax": 0.12,
+      "lenRatioMin": 0.60,
+      "lenRatioMax": 1.70,
+      "startDistMax": 18.0,
+      "endDistMax": 18.0
+    },
+    "hook": {
+      "meanDistMax": 11.0,
+      "maxDevMax": 22.0,
+      "covTol": 12.0,
+      "coverageMin": 0.78,
+      "avgCosMin": 0.65,
+      "backFracMax": 0.15,
+      "lenRatioMin": 0.55,
+      "lenRatioMax": 1.80,
+      "startDistMax": 18.0,
+      "endDistMax": 22.0
+    },
+    "short": {
+      "meanDistMax": 10.0,
+      "maxDevMax": 16.0,
+      "covTol": 12.0,
+      "coverageMin": 0.60,
+      "avgCosMin": 0.20,
+      "backFracMax": 0.50,
+      "lenRatioMin": 0.30,
+      "lenRatioMax": 2.50,
+      "startDistMax": 16.0,
+      "endDistMax": 16.0
+    }
+  }
+}
