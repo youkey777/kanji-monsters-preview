@@ -1,6 +1,6 @@
 {
-    "name": "tracing_prototype",
-    "short_name": "tracing_prototype",
+    "name": "kanji_monsters",
+    "short_name": "kanji_monsters",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
