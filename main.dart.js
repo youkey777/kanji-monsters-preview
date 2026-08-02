@@ -100279,7 +100279,7 @@ A(a){var s=null,r=new A.azV(this),q=A.fP(!1,s,2.2,s,18)
 return A.b5(s,new A.aQ(B.L,s,B.nF,B.q,A.b([new A.az(this.d,this.c,s),A.cl(s,r.$1(0),s,s,0,s,0,s),A.cl(s,r.$1(1),s,s,s,0,0,s),A.cl(0,r.$1(2),s,s,s,0,s,s),A.cl(0,r.$1(3),s,s,0,s,s,s)],t.p),s),B.l,s,q,s,s,s,s,s,s,s)}}
 A.azV.prototype={
 $1(a){var s=null
-return A.ck(new A.Y4(a,A.c6("assets/ui/ui_corner_sakura.webp",B.j,s,new A.azW(),s,56,56),s),!0,s)},
+return A.ck(new A.Y4(a,A.c6("assets/ui/ui_corner_sakura.webp",B.j,s,new A.azW(),s,40,40),s),!0,s)},
 $S:653}
 A.azW.prototype={
 $3(a,b,c){return B.G},
@@ -115323,7 +115323,7 @@ B.Nc=new A.a2(22,24,22,28)
 B.lI=new A.a2(24,0,24,0)
 B.Nd=new A.a2(24,0,24,24)
 B.Ne=new A.a2(24,24,24,24)
-B.Nf=new A.a2(24,28,24,22)
+B.Nf=new A.a2(24,48,24,46)
 B.Ng=new A.a2(26,14,26,14)
 B.qM=new A.a2(28,0,28,0)
 B.Nh=new A.a2(28,28,28,28)
