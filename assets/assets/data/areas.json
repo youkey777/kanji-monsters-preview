@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mori",
+    "name": "はじまりの森(もり)",
+    "bgAsset": "assets/ui/bg_explore.webp",
+    "orderRange": [1, 5],
+    "unlockNeed": 0
+  },
+  {
+    "id": "yama",
+    "name": "こだまの山(やま)",
+    "bgAsset": "assets/ui/bg_area_yama.webp",
+    "orderRange": [6, 10],
+    "unlockNeed": 4
+  },
+  {
+    "id": "kawara",
+    "name": "ひかりの川原(かわら)",
+    "bgAsset": "assets/ui/bg_area_kawara.webp",
+    "orderRange": [11, 15],
+    "unlockNeed": 4
+  }
+]
